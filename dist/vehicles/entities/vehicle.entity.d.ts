@@ -1,8 +1,0 @@
-export declare class Vehicle {
-    id: number;
-    plate: string;
-    brand: string;
-    model: string;
-    year: number;
-    isAvailable: boolean;
-}
